@@ -1,5 +1,5 @@
 # MC_assignment2
-The Weather Assignment App is an Android application built with Jetpack Compose, a modern UI toolkit for native Android development. The app's main objective is to provide users with up-to-date weather information for a specified location and date. It features a user-friendly interface comprising various components that facilitate the interaction between the user and the app's functionality.
+The Weather Assignment App is an Android application built with Jetpack Compose, a modern UI toolkit for native Android development. The app's main objective is to provide users with up to date weather information for a specified location and date. It features a user friendly interface comprising various components that facilitate the interaction between the user and the app's functionality.
 
 One of the core components of the app is the Date Picker, which allows users to select a specific date for which they want to retrieve weather data. The Date Picker is integrated seamlessly into the app's interface, providing a smooth and intuitive user experience. Upon selecting a date, the app dynamically updates the displayed weather information to reflect the selected date's data.
 
